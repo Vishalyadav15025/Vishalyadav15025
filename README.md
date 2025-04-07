@@ -16,7 +16,7 @@
   - Deployed a full Elastic Stack (Elasticsearch, Logstash, Kibana) for log aggregation and threat monitoring.
   - Created dashboards and alerts for real-time detection of suspicious activities.
 - <b>Network Traffic Analysis with Wireshark</b>
-  - Conducted comprehensive network traffic analysis using Wireshark to monitor live data streams.
+  - Monitored and analyzed TCP 3-way and 4-way handshakes in Wireshark to detect anomalies such as half-open connections, SYN floods, and irregular termination patterns-key indicators of potential intrusion attempts.
   - Identified suspicious traffic patterns and potential attack vectors for further investigation. </b></i>
 - <b>Vulnerability Scanning and Remediation (Nessus & Metasploitable 2)</b>
   - Set up a lab environment using Metasploitable 2 and Kali Linux.
