@@ -19,11 +19,11 @@
   - Monitored and analyzed TCP 3-way and 4-way handshakes in Wireshark to detect anomalies such as half-open connections, SYN floods, and irregular termination patterns-key indicators of potential intrusion attempts.
   - Identified suspicious traffic patterns and potential attack vectors for further investigation. </b></i>
 - <b>Vulnerability Scanning and Remediation (Nessus & Metasploitable 2)</b>
-  - Set up a lab environment using Metasploitable 2 and Kali Linux.
-  - Performed network scanning and service enumeration using Nmap.
-  - Conducted vulnerability assessment using Nessus, identifying critical CVEs.
-  - Mapped findings to OWASP Top 10 and MITRE ATT&CK techniques.
-  - Gained hands-on experience in vulnerability management and ethical hacking workflow.
+  - Deployed a controlled lab environment using Metasploitable 2 and Kali Linux to simulate real-world attack surfaces.
+  - Performed network scanning and service enumeration with Nmap to identify open ports and running services.
+  - Conducted comprehensive vulnerability assessments using Nessus, detecting high-risk CVEs across multiple services.
+  - Correlated findings with the OWASP Top 10 and MITRE ATT&CK framework to assess potential exploitation paths and adversary techniques.
+  - Developed a structured understanding of vulnerability management, ethical hacking practices, and remediation planning.
 - <b>PortSwigger Web Application Security Labs</b>
   - Completed a series of labs on web application security using Burp Suite Professional, focusing on identifying and exploiting vulnerabilities.
 - <b>Security Door System (Arduino)</b>
