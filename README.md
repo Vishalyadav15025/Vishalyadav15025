@@ -44,21 +44,12 @@
 - Microsoft Cybersecurity Certificate
 - ITIL
 
-<h2>🔨Tools</h2>
+<h2>🛡️Frameworks & Compliance:</h2>
+• MITRE ATT&CK • OWASP Top 10 • NIST Cybersecurity Framework (CSF) • ISO/IEC 27001 • CIS Controls • Zero Trust Architecture • ITIL v4 • Cyber Kill Chain
 
-- Kali Linux                                       
-- Nmap                                          
-- Nessus                                            
-- Wireshark                                        
-- Burp Suite                                     
-- OWASP ZAP
-- Metasploit
-- Splunk
-- DVWA
-- AWS
-- Acunetix
-- Embedded systems
-- IoT security
+<h2>🔧Tools</h2>
+• Kali Linux • Nessus • Nmap • Wireshark • Metasploit • OWASP ZAP • Splunk • DVWA • Acunetix • Shodan • Burp Suite • Wazuh • ELK Stack  • OpenVAS • Arduino • AWS • PowerShell • Python • Bash • IoT security • Embedded Systems 
+
 
 <h2> 🤳 Connect with me:</h2>
 
